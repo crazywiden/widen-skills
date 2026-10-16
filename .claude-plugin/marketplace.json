@@ -1,0 +1,24 @@
+{
+  "name": "widen-skills",
+  "description": "Agent skills for image generation and Shopify product-page merchandising",
+  "owner": {
+    "name": "Yuan Gao",
+    "url": "https://github.com/crazywiden"
+  },
+  "plugins": [
+    {
+      "name": "image-generation",
+      "source": "./plugins/image-generation",
+      "description": "Generate images through the ChatGPT Images web UI in Chrome, with optional reference images, saved locally.",
+      "category": "productivity",
+      "tags": ["image-generation", "chatgpt", "browser-automation"]
+    },
+    {
+      "name": "shopify-merchandising",
+      "source": "./plugins/shopify-merchandising",
+      "description": "Shopify product-page content: selling-point image-with-text sections generated and installed on a theme copy.",
+      "category": "ecommerce",
+      "tags": ["shopify", "ecommerce", "product-page", "copywriting"]
+    }
+  ]
+}

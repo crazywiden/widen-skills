@@ -1,0 +1,14 @@
+{
+  "name": "shopify-merchandising",
+  "version": "1.0.0",
+  "description": "Shopify product-page content: selling-point image-with-text sections generated and installed on a theme copy.",
+  "author": {
+    "name": "Yuan Gao",
+    "url": "https://github.com/crazywiden"
+  },
+  "homepage": "https://github.com/crazywiden/widen-skills",
+  "repository": "https://github.com/crazywiden/widen-skills",
+  "license": "MIT",
+  "keywords": ["shopify", "ecommerce", "product-page", "skills"],
+  "dependencies": ["image-generation"]
+}

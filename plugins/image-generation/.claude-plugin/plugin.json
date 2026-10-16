@@ -1,0 +1,13 @@
+{
+  "name": "image-generation",
+  "version": "1.0.0",
+  "description": "Generate images through the ChatGPT Images web UI in Chrome, with optional reference images, saved locally.",
+  "author": {
+    "name": "Yuan Gao",
+    "url": "https://github.com/crazywiden"
+  },
+  "homepage": "https://github.com/crazywiden/widen-skills",
+  "repository": "https://github.com/crazywiden/widen-skills",
+  "license": "MIT",
+  "keywords": ["image-generation", "chatgpt", "browser-automation", "skills"]
+}
